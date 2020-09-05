@@ -1,6 +1,6 @@
 # SG90 servo range correction
 
-![SG90 image](/images/sg90_1000x600.jpg)
+![SG90 image](/images/sg90.jpg)
 
 ## What's the problem?
 
