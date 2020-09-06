@@ -1,5 +1,11 @@
 # SG90 servo range correction
 
+*A Python script for the SG90 servo to achieve a full 180 degrees moving range*
+
+<p>
+<a href="https://raw.githubusercontent.com/uraimo/SG90Servo.swift/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License: MIT" /></a>
+</p>
+
 ![SG90 image](/images/sg90.jpg)
 
 ## What's the problem?
@@ -26,6 +32,6 @@ The code has detail comments so use them for understanding what the code does.
 
 In short, it takes the correction value you entered and applies it to the servo minimum and maximum pulse widths. After that, the servo moves its arm from mid to min position, then back to mid, to max and again to mid.
 
-You could start from the average value of 0.5 anf then increase/decrease the correction value in increments of 0.05. This will allows you to find the best change you could make to reach full 180 degree range.
+You could start from the average value of 0.5 anf then increase/decrease the correction value in increments of 0.05. This will allows you to find the best change you could make to reach full 180 degrees range.
 
 If you see the correction value is right (the servo moves full 180 degree), you answer "Yes" when the program asks you, and "No" otherwise thus repeating the loop until the appropriate value will be entered.
