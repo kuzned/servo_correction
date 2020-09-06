@@ -12,7 +12,7 @@ Using GPIO Zero assumes that the servo uses a signal frame width of 20ms, while 
 
 But if you start using the servo with these default settings you will quickly find that that your servo does not move a full 180 degrees from minimum to maximum as it should be.
 
-To fix this issue you should change the pulse width parameters in order to get a full 90 degrees of rotation in either direction. The code attached helps to find right values of these parameters.
+To fix this issue you should change the pulse width parameters in order to get a full 90 degrees of rotation in either direction. The code attached helps to find right values for these parameters.
 
 ## Code explanation
 
