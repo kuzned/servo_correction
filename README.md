@@ -1,6 +1,6 @@
 # SG90 servo range correction
 
-*A Python script for the SG90 servo to achieve a full 180 degrees moving range*
+*A Python script for the SG90 servo to achieve the full 180 degrees moving range*
 
 <p>
 <a href="https://raw.githubusercontent.com/uraimo/SG90Servo.swift/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License: MIT" /></a>
