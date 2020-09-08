@@ -2,10 +2,6 @@
 
 *A Python script for the SG90 servo to achieve the full 180 degrees moving range*
 
-<p>
-<a href="https://raw.githubusercontent.com/uraimo/SG90Servo.swift/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License: MIT" /></a>
-</p>
-
 ![SG90 image](/images/sg90.jpg)
 
 ## What's the problem?
