@@ -34,4 +34,4 @@ If you see the correction value is right (the servo moves the full range), you a
 
 ## Acknowledgements
 
-I am grateful to the people who noticed the same issue for the servo and offered their own code to fix, among them **Matt Hawkins** and his article [Basic Servo Use With the Raspberry Pi and GpioZero](https://www.raspberrypi-spy.co.uk/2018/02/basic-servo-use-with-the-raspberry-pi/), also **Colin Dow** and his book [Internet of Things Programming Projects](https://github.com/PacktPublishing/Internet-of-Things-Programming-Projects).
+I am grateful to the people who noticed the same issue for the servo and offered their code to fix, among them **Matt Hawkins** with his article [Basic Servo Use With the Raspberry Pi and GpioZero](https://www.raspberrypi-spy.co.uk/2018/02/basic-servo-use-with-the-raspberry-pi/), also **Colin Dow** with his book [Internet of Things Programming Projects](https://github.com/PacktPublishing/Internet-of-Things-Programming-Projects).
