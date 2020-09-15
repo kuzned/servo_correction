@@ -31,3 +31,7 @@ In short, it takes the correction value you entered and applies it to the servo 
 You could start from the average value of 0.5 and then increase/decrease the correction value in increments of 0.05. This will allows you to find the best change you could make to reach the full 180 degrees range.
 
 If you see the correction value is right (the servo moves the full range), you answer "Yes" when the program asks you, and "No" otherwise thus repeating the loop until the appropriate value will be entered.
+
+## Acknowledgements
+
+I am grateful to the people who noticed the same issue for the servo and offered their own versions of code to fix, among them: **Matt Hawkins** in his article [Basic Servo Use With the Raspberry Pi and GpioZero](https://www.raspberrypi-spy.co.uk/2018/02/basic-servo-use-with-the-raspberry-pi/) and **Colin Dow** in his book [Internet of Things Programming Projects](https://github.com/PacktPublishing/Internet-of-Things-Programming-Projects).
