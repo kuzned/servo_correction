@@ -22,7 +22,7 @@ To fix this issue you should change the pulse width parameters in order to get a
 
 The code attached helps to find the right values for these parameters.
 
-## Code explanation and usage
+## Code explanation
 
 The code has detailed comments so use them for understanding what the code does. 
 
